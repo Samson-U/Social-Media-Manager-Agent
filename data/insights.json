@@ -1,0 +1,27 @@
+{
+    "best_time": "17:00",
+    "best_platform": "LinkedIn",
+    "top_keywords": [
+        "every",
+        "productivity",
+        "tricks",
+        "motivation",
+        "code"
+    ],
+    "engagement_by_time_range": {
+        "afternoon": 429.3333333333333,
+        "evening": 471.6666666666667,
+        "morning": 316.6666666666667
+    },
+    "top_post_themes": {
+        "ai": 453.75,
+        "coding": 432.6666666666667,
+        "productivity": 263.75,
+        "education": 474.25
+    },
+    "preferred_content_type": "technical",
+    "engagement_prediction_model": {
+        "recommended_theme": "education",
+        "recommended_time_range": "evening"
+    }
+}
